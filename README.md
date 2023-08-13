@@ -97,9 +97,6 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | 聚BT - 聚合最优质的BT、磁力资源 | [聚BT - 聚合最优质的BT、磁力资源](https://www.jubt.net/cn/index.html) |
 | ✅已上线 | ShareHub - 资源和工具的集合 | [https://www.gezhipu.com/cn/index.html](https://www.gezhipu.com/cn/index.html) |
 | ✅已上线 | 程序员网址导航 | [https://web.hujiangtao.cn/](https://web.hujiangtao.cn/) |
-## License
-
-Copyright © 2017-2023 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
 
 > 注：本站开源的目的是大家能够在本站的基础之上有所启发，做出更多新的东西。并不是让大家照搬所有代码。
 > 如果你使用这个开源项目，请**注明**本项目开源地址。
